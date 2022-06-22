@@ -1,3 +1,4 @@
+use uklon;
 DELETE FROM car;
 DELETE FROM manufacturer;
 DELETE FROM uklon.order;
